@@ -1,0 +1,15 @@
+F:\OOP\bt_DongGoi\obj\Debug\net6.0\bt_DongGoi.csproj.AssemblyReference.cache
+F:\OOP\bt_DongGoi\obj\Debug\net6.0\bt_DongGoi.GeneratedMSBuildEditorConfig.editorconfig
+F:\OOP\bt_DongGoi\obj\Debug\net6.0\bt_DongGoi.AssemblyInfoInputs.cache
+F:\OOP\bt_DongGoi\obj\Debug\net6.0\bt_DongGoi.AssemblyInfo.cs
+F:\OOP\bt_DongGoi\obj\Debug\net6.0\bt_DongGoi.csproj.CoreCompileInputs.cache
+F:\OOP\bt_DongGoi\bin\Debug\net6.0\bt_DongGoi.exe
+F:\OOP\bt_DongGoi\bin\Debug\net6.0\bt_DongGoi.deps.json
+F:\OOP\bt_DongGoi\bin\Debug\net6.0\bt_DongGoi.runtimeconfig.json
+F:\OOP\bt_DongGoi\bin\Debug\net6.0\bt_DongGoi.dll
+F:\OOP\bt_DongGoi\bin\Debug\net6.0\bt_DongGoi.pdb
+F:\OOP\bt_DongGoi\obj\Debug\net6.0\bt_DongGoi.dll
+F:\OOP\bt_DongGoi\obj\Debug\net6.0\refint\bt_DongGoi.dll
+F:\OOP\bt_DongGoi\obj\Debug\net6.0\bt_DongGoi.pdb
+F:\OOP\bt_DongGoi\obj\Debug\net6.0\bt_DongGoi.genruntimeconfig.cache
+F:\OOP\bt_DongGoi\obj\Debug\net6.0\ref\bt_DongGoi.dll

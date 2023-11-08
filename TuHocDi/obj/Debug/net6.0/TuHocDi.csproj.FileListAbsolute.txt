@@ -1,0 +1,15 @@
+F:\OOP\TuHocDi\bin\Debug\net6.0\TuHocDi.exe
+F:\OOP\TuHocDi\bin\Debug\net6.0\TuHocDi.deps.json
+F:\OOP\TuHocDi\bin\Debug\net6.0\TuHocDi.runtimeconfig.json
+F:\OOP\TuHocDi\bin\Debug\net6.0\TuHocDi.dll
+F:\OOP\TuHocDi\bin\Debug\net6.0\TuHocDi.pdb
+F:\OOP\TuHocDi\obj\Debug\net6.0\TuHocDi.csproj.AssemblyReference.cache
+F:\OOP\TuHocDi\obj\Debug\net6.0\TuHocDi.GeneratedMSBuildEditorConfig.editorconfig
+F:\OOP\TuHocDi\obj\Debug\net6.0\TuHocDi.AssemblyInfoInputs.cache
+F:\OOP\TuHocDi\obj\Debug\net6.0\TuHocDi.AssemblyInfo.cs
+F:\OOP\TuHocDi\obj\Debug\net6.0\TuHocDi.csproj.CoreCompileInputs.cache
+F:\OOP\TuHocDi\obj\Debug\net6.0\TuHocDi.dll
+F:\OOP\TuHocDi\obj\Debug\net6.0\refint\TuHocDi.dll
+F:\OOP\TuHocDi\obj\Debug\net6.0\TuHocDi.pdb
+F:\OOP\TuHocDi\obj\Debug\net6.0\TuHocDi.genruntimeconfig.cache
+F:\OOP\TuHocDi\obj\Debug\net6.0\ref\TuHocDi.dll

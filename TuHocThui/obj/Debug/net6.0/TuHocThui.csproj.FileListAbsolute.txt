@@ -1,0 +1,15 @@
+F:\OOP\TuHocThui\obj\Debug\net6.0\TuHocThui.csproj.AssemblyReference.cache
+F:\OOP\TuHocThui\obj\Debug\net6.0\TuHocThui.GeneratedMSBuildEditorConfig.editorconfig
+F:\OOP\TuHocThui\obj\Debug\net6.0\TuHocThui.AssemblyInfoInputs.cache
+F:\OOP\TuHocThui\obj\Debug\net6.0\TuHocThui.AssemblyInfo.cs
+F:\OOP\TuHocThui\obj\Debug\net6.0\TuHocThui.csproj.CoreCompileInputs.cache
+F:\OOP\TuHocThui\bin\Debug\net6.0\TuHocThui.exe
+F:\OOP\TuHocThui\bin\Debug\net6.0\TuHocThui.deps.json
+F:\OOP\TuHocThui\bin\Debug\net6.0\TuHocThui.runtimeconfig.json
+F:\OOP\TuHocThui\bin\Debug\net6.0\TuHocThui.dll
+F:\OOP\TuHocThui\bin\Debug\net6.0\TuHocThui.pdb
+F:\OOP\TuHocThui\obj\Debug\net6.0\TuHocThui.dll
+F:\OOP\TuHocThui\obj\Debug\net6.0\refint\TuHocThui.dll
+F:\OOP\TuHocThui\obj\Debug\net6.0\TuHocThui.pdb
+F:\OOP\TuHocThui\obj\Debug\net6.0\TuHocThui.genruntimeconfig.cache
+F:\OOP\TuHocThui\obj\Debug\net6.0\ref\TuHocThui.dll

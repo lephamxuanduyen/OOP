@@ -1,0 +1,15 @@
+F:\OOP\lpxduyen\obj\Debug\net6.0\lpxduyen.csproj.AssemblyReference.cache
+F:\OOP\lpxduyen\obj\Debug\net6.0\lpxduyen.GeneratedMSBuildEditorConfig.editorconfig
+F:\OOP\lpxduyen\obj\Debug\net6.0\lpxduyen.AssemblyInfoInputs.cache
+F:\OOP\lpxduyen\obj\Debug\net6.0\lpxduyen.AssemblyInfo.cs
+F:\OOP\lpxduyen\obj\Debug\net6.0\lpxduyen.csproj.CoreCompileInputs.cache
+F:\OOP\lpxduyen\bin\Debug\net6.0\lpxduyen.exe
+F:\OOP\lpxduyen\bin\Debug\net6.0\lpxduyen.deps.json
+F:\OOP\lpxduyen\bin\Debug\net6.0\lpxduyen.runtimeconfig.json
+F:\OOP\lpxduyen\bin\Debug\net6.0\lpxduyen.dll
+F:\OOP\lpxduyen\bin\Debug\net6.0\lpxduyen.pdb
+F:\OOP\lpxduyen\obj\Debug\net6.0\lpxduyen.dll
+F:\OOP\lpxduyen\obj\Debug\net6.0\refint\lpxduyen.dll
+F:\OOP\lpxduyen\obj\Debug\net6.0\lpxduyen.pdb
+F:\OOP\lpxduyen\obj\Debug\net6.0\lpxduyen.genruntimeconfig.cache
+F:\OOP\lpxduyen\obj\Debug\net6.0\ref\lpxduyen.dll
